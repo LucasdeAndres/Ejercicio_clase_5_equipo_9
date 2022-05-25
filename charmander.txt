@@ -1,9 +1,6 @@
 holis
 Como estas?
-<<<<<<< HEAD
 yo bien, aqui ando trabajando fuera de hora con una compa
-=======
 Ya no se que mas escribir
 este ejercicio es muy largo
 Chau
->>>>>>> 5d2158c06d87c261aed8870ce470f0535f21fc70
